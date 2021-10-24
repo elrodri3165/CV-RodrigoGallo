@@ -74,6 +74,8 @@
             <a href="cursos.php?curso=php"><p>Programación web con PHP y MySQL , 21/05/2020</p></a>
             <a href="cursos.php?curso=javascript"><p>Programación web con Javascript, 19/07/2020</p></a>
             <a href="cursos.php?curso=php_avanzado"><p>Programación con PHP y MySQL - Nivel Avanzado, 14/10/2020</p></a>
+            <a href="cursos.php?curso=php_polo"><p>Programacion Web PHP, 07/07/2021</p></a>
+            <a href="cursos.php?curso=java_polo"><p>Desarrollo Web Fullstack con Java perfil Junior, 05/10/2021</p></a>
 
             <h4>Titulos especiales (2020 - 2021)</h4>
             <p>Polo TIC - Plataforma Polotic</p>
